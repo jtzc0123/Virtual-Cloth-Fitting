@@ -1,0 +1,30 @@
+﻿生成启动时间为 2014/12/23 17:03:48。
+     1>项目“E:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\objt2.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\objt2.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt simulation.cpp
+         simulation.cpp
+     1>e:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\simulation.cpp(141): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\simulation.cpp(148): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\simulation.cpp(149): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\simulation.cpp(150): warning C4305: “=”: 从“double”到“float”截断
+     1>e:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\simulation.cpp(132): warning C4101: “init_y_translate”: 未引用的局部变量
+     1>e:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\simulation.cpp(275): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>e:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\simulation.cpp(240): warning C4715: “load_body_and_cloth”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\Debug\objt2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\Debug\objt2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\Debug\objt2.lib" /MACHINE:X86 /SAFESEH Debug\objt2.obj
+         Debug\read_and_write_obj.obj
+         Debug\simulation.obj
+         Debug\stdafx.obj
+         objt2.vcxproj -> E:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\Debug\objt2.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\objt2.unsuccessfulbuild”。
+         正在对“Debug\objt2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\university\computer_vision\phase2\project\obj\obj_one_action_with_robe\objt2\objt2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.54
